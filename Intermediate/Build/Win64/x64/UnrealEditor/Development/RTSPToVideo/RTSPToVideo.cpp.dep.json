@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\arpit\\documents\\unreal projects\\expermentalproject\\plugins\\rtsptovideo\\source\\rtsptovideo\\private\\rtsptovideo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\arpit\\documents\\unreal projects\\expermentalproject\\intermediate\\build\\win64\\x64\\expermentalprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\arpit\\documents\\unreal projects\\expermentalproject\\plugins\\rtsptovideo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rtsptovideo\\definitions.rtsptovideo.h",
+            "c:\\users\\arpit\\documents\\unreal projects\\expermentalproject\\plugins\\rtsptovideo\\source\\rtsptovideo\\public\\rtsptovideo.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

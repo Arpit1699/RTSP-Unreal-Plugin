@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RTSPToVideo-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Arth\arth\Intermediate\Build\Win64\x64\ltaprojectdemoEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\Arth\arth\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RTSPToVideo\Module.RTSPToVideo.cpp.obj"
+"D:\Arth\arth\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RTSPToVideo\Default.rc2.res"
+/OUT:"D:\Arth\arth\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RTSPToVideo\UnrealEditor-RTSPToVideo-Win64-DebugGame.lib"

@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ADBHYD966\\Documents\\Unreal Projects\\RTSPDisplayWidget\\Plugins\\RTSPToVideo\\Source\\RTSPToVideo\\RTSPToVideo.Build.cs",
+		"C:\\Users\\ADBHYD966\\Documents\\Unreal Projects\\RTSPDisplayWidget\\Plugins\\RTSPToVideo\\Source\\ThirdParty\\RTSPToVideoLibrary\\RTSPToVideoLibrary.Build.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RTSPToVideo",
+	"Description": "Conerts RTSP to texture 2d ",
+	"Category": "Other",
+	"CreatedBy": "Arpit Goralkar",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RTSPToVideo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RTSPToVideo.cpp.obj": [
+			"RTSPStreamManager.gen.cpp.obj",
+			"RTSPStreamWidget.gen.cpp.obj",
+			"RTSPToVideo.init.gen.cpp.obj",
+			"RTSPStreamManager.cpp.obj",
+			"RTSPStreamWidget.cpp.obj",
+			"RTSPToVideo.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RTSPToVideo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\arpit\Documents\Unreal Projects\ExpermentalProject\Intermediate\Build\Win64\x64\ExpermentalProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\arpit\Documents\Unreal Projects\ExpermentalProject\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTSPToVideo\Module.RTSPToVideo.cpp.obj"
+"C:\Users\arpit\Documents\Unreal Projects\ExpermentalProject\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTSPToVideo\RTSPStreamManager.cpp.obj"
+"C:\Users\arpit\Documents\Unreal Projects\ExpermentalProject\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTSPToVideo\RTSPStreamWidget.cpp.obj"
+"C:\Users\arpit\Documents\Unreal Projects\ExpermentalProject\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTSPToVideo\RTSPToVideo.cpp.obj"
+"C:\Users\arpit\Documents\Unreal Projects\ExpermentalProject\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTSPToVideo\Default.rc2.res"
+/OUT:"C:\Users\arpit\Documents\Unreal Projects\ExpermentalProject\Plugins\RTSPToVideo\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTSPToVideo\UnrealEditor-RTSPToVideo.lib"
