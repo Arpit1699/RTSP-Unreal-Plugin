@@ -144,7 +144,9 @@ public class RTSPToVideo : ModuleRules
             "Engine",
             "UMG",
             "RenderCore",
-            "RHI"
+            "RHI","Slate",
+            "SlateCore",
+            "InputCore"
         });
 
         PrivateDependencyModuleNames.AddRange(new string[]
